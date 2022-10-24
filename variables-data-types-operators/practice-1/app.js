@@ -1,0 +1,3 @@
+showMessage = () => {
+    alert('Xin chào!');
+}
